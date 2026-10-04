@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r Questie Tracker
+## Notes: Applies ElvUI's button, icon and font styling to the Questie Tracker (the on-screen quest log).
+## Author: UndeadRogue
+## Version: 1.00
+## RequiredDeps: ElvUI, Questie-335
+
+ElvUI_QuestieTracker.lua

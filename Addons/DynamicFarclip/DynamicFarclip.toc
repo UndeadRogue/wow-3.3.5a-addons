@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Dynamic Farclip
+## Notes: Holds a target framerate by trimming farclip only where terrain submission is the bottleneck.
+## Author: UndeadRogue
+## Version: 1.0
+## SavedVariables: DynamicFarclipDB
+
+DynamicFarclip.lua

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r Auctionator Tabs
+## Notes: Applies the ElvUI tab skin to Auctionator's Buy / Sell / More... tabs on the Auction House frame.
+## Author: UndeadRogue
+## Version: 1.00
+## RequiredDeps: ElvUI
+## OptionalDeps: Auctionator, ElvUI_AddOnSkins
+
+ElvUI_AuctionatorTabs.lua

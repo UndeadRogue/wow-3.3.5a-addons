@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="MOUSELOOKBINDER_TOGGLE" header="MOUSELOOKBINDER" runOnUp="false">
+		MouselookBinder_Toggle()
+	</Binding>
+</Bindings>

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Mouselook Binder
+## Notes: Toggle mouselook with a key, and choose what left/right click do while mouselooking.
+## Author: UndeadRogue
+## Version: 1.1
+## OptionalDeps: ElvUI
+## SavedVariablesPerCharacter: MouselookBinderDB
+
+MouselookBinder.lua

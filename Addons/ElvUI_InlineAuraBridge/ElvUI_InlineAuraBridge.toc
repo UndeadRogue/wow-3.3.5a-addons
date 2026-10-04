@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r Inline Aura Bridge
+## Notes: Lets Inline Aura display auras on ElvUI's action buttons.
+## Author: UndeadRogue
+## Version: 1.0
+## RequiredDeps: ElvUI, InlineAura
+## SavedVariables: ElvUIInlineAuraBridgeDB
+
+core.lua

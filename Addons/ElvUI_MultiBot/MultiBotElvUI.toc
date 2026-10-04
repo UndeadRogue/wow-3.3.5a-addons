@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r MultiBot
+## Notes: Starts the MultiBot bar hidden and restyles its buttons to match ElvUI.
+## Author: UndeadRogue
+## Version: 1.0
+## RequiredDeps: ElvUI
+## Dependencies: MultiBot
+
+MultiBotElvUI.lua

@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Mouselook Binder |cff9382c9ElvUI|r
+## Notes: Assign the mouselook left/right click from inside ElvUI's keybind mode.
+## Author: UndeadRogue
+## Version: 1.0
+## RequiredDeps: ElvUI, MouselookBinder
+
+core.lua
